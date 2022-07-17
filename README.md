@@ -76,5 +76,6 @@ methods. BART and T5.
 
 
 ## The details about the projects can be found in the below PDF file.
-
+ Also a "HOW TO USE THE SOFTWARE" is enclosed in the "Appandices" part of the report.
+ 
 [Project Report.pdf](https://github.com/razaviah/Dataset-Generation-and-Evaluation-for-Natural-Question-Generation/files/9128412/Final.Project.Report_Amirhossein.Razavi_EECS4088_Professor.An_V2.pdf)
